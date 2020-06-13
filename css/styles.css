@@ -245,7 +245,7 @@ a:hover {
   color: hsl(171, 66%, 44%);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 576px) {
   #header {
     background-image: url(../images/bg-header-mobile.png);
   }
