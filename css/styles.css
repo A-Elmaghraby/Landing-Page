@@ -81,7 +81,7 @@ a {
  height: auto;
 
 }
-.text-box1 {
+.text-box {
   text-align: center;
   width: 45%;
   margin: 50px auto 70px;
@@ -218,6 +218,9 @@ a {
   margin: 10px 15px 0;
   cursor: pointer;
 }
+.attribution {
+  font-size: 14px;
+}
 
 .icons {
   font-size: 30px;
@@ -324,6 +327,3 @@ a:hover {
     width: 100%;
   }
 
-
-
-}
