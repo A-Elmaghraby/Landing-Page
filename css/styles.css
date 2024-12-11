@@ -188,13 +188,13 @@ ul li {
   display: flex; 
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap; /* Allow items to wrap */
-  gap: 20px; /* Add spacing between items */
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
 .press-logo img {
-  max-width: 100%; /* Ensure images don't overflow their container */
-  height: auto; /* Maintain aspect ratio */
+  max-width: 100%;
+  height: auto;
 }
 
 
